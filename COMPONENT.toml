@@ -3,7 +3,7 @@ name = "SigmaOS-runit-supervision"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "runit-supervision component"
+description = "runit supervision"
 upstream = []
 
 [contract]
